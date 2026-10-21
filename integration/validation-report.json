@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-21",
+  "upstream_sha": "9924c97f04e1b76dabebe8fa376a5a224285aa90",
+  "test": "Actual pinned local application HTTP API; original PNG and MP4; task claim/complete, persisted ready state, byte-for-byte served media",
+  "checks": [
+    {
+      "kind": "image",
+      "claim_complete": "passed",
+      "saved_status": "ready",
+      "stored_media_matches_original": true,
+      "sha256": "2acbef53fff178868fb079a8b2f2f025dc21cf6365503bbac012dee89e1d9410",
+      "source_case_project": "Agent Storyboard",
+      "source_model": "gpt-image-2-vip"
+    },
+    {
+      "kind": "video",
+      "claim_complete": "passed",
+      "saved_status": "ready",
+      "stored_media_matches_original": true,
+      "sha256": "e4440502dd9c0cffba89b851b04047e16fcbef47c30959429fc85bfb754fb098",
+      "source_case_project": "Agent Storyboard",
+      "source_model": "seedance-2-5"
+    }
+  ],
+  "new_paid_calls": 0,
+  "browser_ui_verified": false,
+  "remote_provider_registered": false
+}

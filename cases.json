@@ -1,0 +1,130 @@
+[
+  {
+    "project": "Agent Storyboard",
+    "date": "2026-10-21",
+    "model": "gpt-image-2-vip",
+    "kind": "image",
+    "parameters": {
+      "model": "gpt-image-2-vip",
+      "n": 1,
+      "size": "1:1",
+      "resolution": "1K",
+      "quality": "low"
+    },
+    "quote": {
+      "model": "gpt-image-2-vip",
+      "type": "image",
+      "conditions": {
+        "resolution": "1K",
+        "n": 1,
+        "input_image_count": 0,
+        "quality": "low"
+      },
+      "currency": "USD",
+      "unit": "request",
+      "price_basis": "request",
+      "charge_type": "per_request",
+      "maximum_unit_price": "0.0019",
+      "prices": [
+        {
+          "charge_type": "per_request",
+          "conditions": {
+            "quality": "low",
+            "resolution": "1K"
+          },
+          "group": "default",
+          "price_basis": "request",
+          "unit": "request",
+          "unit_price": "0.0019"
+        }
+      ],
+      "queried_at": "2026-10-21T08:22:37.745609+00:00",
+      "is_final_charge": false
+    },
+    "estimated_usd": "0.0019",
+    "status": "completed",
+    "cost": {
+      "model": "gpt-image-2-vip",
+      "billing_status": "unavailable",
+      "actual_cost_usd": null,
+      "actual_credits": null
+    },
+    "file": "assets/gpt-image-2-vip-43f7581d9f.png",
+    "price_basis": "Same-key quotation; task actual settlement unavailable",
+    "case_price_usd": "0.0019",
+    "is_actual_charge": false,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "project": "Agent Storyboard",
+    "date": "2026-10-21",
+    "model": "seedance-2-5",
+    "kind": "video",
+    "parameters": {
+      "model": "seedance-2-5",
+      "duration": 4,
+      "resolution": "480p",
+      "aspect_ratio": "16:9",
+      "generate_audio": false,
+      "output_format": "mp4"
+    },
+    "quote": {
+      "model": "seedance-2-5",
+      "type": "video",
+      "conditions": {
+        "duration": "-1",
+        "resolution": "480p",
+        "has_video_input": false,
+        "has_image_input": false,
+        "has_audio_input": false,
+        "input_image_count": 0,
+        "output_format": "mp4",
+        "generate_audio": false
+      },
+      "currency": "USD",
+      "unit": "1m_tokens",
+      "price_basis": "total_tokens",
+      "charge_type": "per_token",
+      "maximum_unit_price": "10",
+      "prices": [
+        {
+          "charge_type": "per_token",
+          "conditions": {
+            "duration": "-1",
+            "has_audio_input": false,
+            "has_image_input": false,
+            "has_video_input": false,
+            "output_format": "mp4",
+            "resolution": "480p"
+          },
+          "group": "default",
+          "price_basis": "total_tokens",
+          "unit": "1m_tokens",
+          "unit_price": "10"
+        }
+      ],
+      "queried_at": "2026-10-21T08:42:02.459882+00:00",
+      "is_final_charge": false
+    },
+    "estimated_usd": "0.384",
+    "status": "completed",
+    "cost": {
+      "model": "seedance-2-5",
+      "billing_status": "settled",
+      "actual_cost_usd": "0.3883",
+      "actual_credits": "77.66"
+    },
+    "refill_retry": true,
+    "file": "assets/seedance-2-5-f534fcedf3.mp4",
+    "price_basis": "API billing=settled",
+    "case_price_usd": "0.3883",
+    "is_actual_charge": true,
+    "seconds": "4.04",
+    "width": 854,
+    "height": 480,
+    "fully_decoded": true,
+    "actual_usd_per_second": "0.09611386138613861386138613861",
+    "preview": "assets/video-preview.jpg"
+  }
+]
