@@ -1,5 +1,21 @@
 # Lower-cost media API guide for Agent Storyboard
 
+<!-- TOAPIS-PROJECT-LINKS-20261022 -->
+[ToAPIs homepage](https://home.toapis.com/AgentStoryboard) · [Model pricing](https://pricing.toapis.com/AgentStoryboard)
+<!-- /TOAPIS-PROJECT-LINKS-20261022 -->
+
+<!-- TOAPIS-SELECTED-PRICES-20261022 -->
+## Selected model quotes · 2026-10-22
+
+| Model / conditions | Current reference quote | Billing basis |
+|---|---:|---|
+| `gpt-image-2-vip` · low / 1K / one image | **$0.0019/image** | Default-group quote for the queried key, not final settlement |
+| `seedance-2-5` · 4s / 480p / MP4 / first-frame image, no video or audio input | **$10/1M total tokens** | Token-metered, not a fixed per-second tariff |
+
+Checked with read-only international `/v1/pricing` queries. Account groups, inputs and settings can differ; use your account quote and task settlement. Dated cases and historical fees below retain their original dates.
+<!-- /TOAPIS-SELECTED-PRICES-20261022 -->
+
+
 [English](README.md) · [中文](README_zh-CN.md)
 
 Plan shots and attach generated pictures and clips to a local storyboard.
@@ -30,7 +46,7 @@ For setup, usage, API errors or ToAPIs billing questions, contact the ToAPIs tea
 
 <sub>seedance-2-5: same-key catalog $10/1M total tokens. Per-second figure above is measured from this settled clip, not a fixed future rate.</sub>
 
-[Model landing page and current price](https://go2v.toapis.com/1021_as_gh) · [PRICING.md](PRICING.md)
+[Model landing page and current price](https://pricing.toapis.com/AgentStoryboard) · [PRICING.md](PRICING.md)
 
 ## Validation scope
 

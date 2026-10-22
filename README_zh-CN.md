@@ -1,5 +1,21 @@
 # 更低成本的 Agent Storyboard API 素材方案
 
+<!-- TOAPIS-PROJECT-LINKS-20261022 -->
+[ToAPIs 官网首页](https://home.toapis.com/AgentStoryboard) · [模型价格](https://pricing.toapis.com/AgentStoryboard)
+<!-- /TOAPIS-PROJECT-LINKS-20261022 -->
+
+<!-- TOAPIS-SELECTED-PRICES-20261022 -->
+## 相关模型报价 · 2026-10-22
+
+| 模型及条件 | 当前参考报价 | 计费说明 |
+|---|---:|---|
+| `gpt-image-2-vip` · low / 1K / 单张 | **$0.0019/张** | 本次查询Key的默认分组报价，不是最终实扣 |
+| `seedance-2-5` · 4秒 / 480p / MP4 / 首帧图，无视频或音频输入 | **$10/百万总tokens** | 按tokens计费，不是固定每秒价格 |
+
+报价通过国际站`/v1/pricing`只读核对。不同账号分组、输入和档位可能不同，以实际账号报价及任务结算为准。下方保留原日期案例和历史费用。
+<!-- /TOAPIS-SELECTED-PRICES-20261022 -->
+
+
 [English](README.md) · [中文](README_zh-CN.md)
 
 在本地分镜表中安排镜头，回填生成的图片和视频。
@@ -30,7 +46,7 @@
 
 <sub>seedance-2-5: same-key catalog $10/1M total tokens. Per-second figure above is measured from this settled clip, not a fixed future rate.</sub>
 
-[模型落地页与价格](https://go2v.toapis.com/1021_as_gh) · [PRICING.md](PRICING.md)
+[模型落地页与价格](https://pricing.toapis.com/AgentStoryboard) · [PRICING.md](PRICING.md)
 
 ## 验证范围
 
