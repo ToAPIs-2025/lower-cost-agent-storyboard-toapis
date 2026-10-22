@@ -6,6 +6,15 @@
 
 这是 ToAPIs 独立维护的社区教程，不是上游官方版本。原项目：[Yuuhann1999/agent-storyboard](https://github.com/Yuuhann1999/agent-storyboard)；固定源码 [9924c97f](https://github.com/Yuuhann1999/agent-storyboard/tree/9924c97f04e1b76dabebe8fa376a5a224285aa90)。
 
+<!-- TOAPIS-SUPPORT-20261022 -->
+## 第三方维护与支持
+
+本方案由 ToAPIs 独立维护，与 Agent Storyboard 主项目无关，不是主仓库内置 Provider，也不是官方应用版本。
+
+使用、接入、接口报错及 ToAPIs 计费问题，请联系 [本教程仓库 Issues](https://github.com/ToAPIs-2025/lower-cost-agent-storyboard-toapis/issues) 或 [yami@toapis.com](mailto:yami@toapis.com)。上游项目不负责本方案维护或其 API 计费支持。
+
+<!-- /TOAPIS-SUPPORT-20261022 -->
+
 ## 演示
 
 ![Original API image](screenshots/cn/01-image-case.png)

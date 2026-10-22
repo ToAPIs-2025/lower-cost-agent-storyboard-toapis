@@ -6,6 +6,15 @@ Plan shots and attach generated pictures and clips to a local storyboard.
 
 An independently maintained ToAPIs community guide, not an endorsed app edition. [Original project](https://github.com/Yuuhann1999/agent-storyboard); [pinned source 9924c97f](https://github.com/Yuuhann1999/agent-storyboard/tree/9924c97f04e1b76dabebe8fa376a5a224285aa90).
 
+<!-- TOAPIS-SUPPORT-20261022 -->
+## Third-party maintenance and support
+
+This optional ToAPIs workflow is independently maintained by ToAPIs and is separate from the upstream Agent Storyboard project. It is not an upstream built-in provider or an official app edition.
+
+For setup, usage, API errors or ToAPIs billing questions, contact the ToAPIs team through [this guide's Issues](https://github.com/ToAPIs-2025/lower-cost-agent-storyboard-toapis/issues) or [yami@toapis.com](mailto:yami@toapis.com). The upstream project does not maintain this workflow or handle its API billing support.
+
+<!-- /TOAPIS-SUPPORT-20261022 -->
+
 ## Examples
 
 ![Original API image](screenshots/en/01-image-case.png)
