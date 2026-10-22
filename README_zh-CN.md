@@ -1,8 +1,8 @@
 # 更低成本的 Agent Storyboard API 素材方案
 
-<!-- TOAPIS-PROJECT-LINKS-20261022 -->
-[ToAPIs 官网首页](https://home.toapis.com/AgentStoryboard) · [模型价格](https://pricing.toapis.com/AgentStoryboard)
-<!-- /TOAPIS-PROJECT-LINKS-20261022 -->
+<!-- TOAPIS-OWNER-INVITE -->
+[注册／使用 ToAPIs](https://toapis.com/login?aff=BEWR) · [参考价表](PRICING.md)
+<!-- /TOAPIS-OWNER-INVITE -->
 
 <!-- TOAPIS-SELECTED-PRICES-20261022 -->
 ## 相关模型报价 · 2026-10-22
@@ -46,7 +46,7 @@
 
 <sub>seedance-2-5: same-key catalog $10/1M total tokens. Per-second figure above is measured from this settled clip, not a fixed future rate.</sub>
 
-[模型落地页与价格](https://pricing.toapis.com/AgentStoryboard) · [PRICING.md](PRICING.md)
+[模型落地页与价格](https://toapis.com/login?aff=BEWR) · [PRICING.md](PRICING.md)
 
 ## 验证范围
 

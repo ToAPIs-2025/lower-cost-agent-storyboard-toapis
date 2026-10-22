@@ -1,8 +1,8 @@
 # Lower-cost media API guide for Agent Storyboard
 
-<!-- TOAPIS-PROJECT-LINKS-20261022 -->
-[ToAPIs homepage](https://home.toapis.com/AgentStoryboard) · [Model pricing](https://pricing.toapis.com/AgentStoryboard)
-<!-- /TOAPIS-PROJECT-LINKS-20261022 -->
+<!-- TOAPIS-OWNER-INVITE -->
+[Sign up / use ToAPIs](https://toapis.com/login?aff=BEWR) · [Guide price table](PRICING.md)
+<!-- /TOAPIS-OWNER-INVITE -->
 
 <!-- TOAPIS-SELECTED-PRICES-20261022 -->
 ## Selected model quotes · 2026-10-22
@@ -46,7 +46,7 @@ For setup, usage, API errors or ToAPIs billing questions, contact the ToAPIs tea
 
 <sub>seedance-2-5: same-key catalog $10/1M total tokens. Per-second figure above is measured from this settled clip, not a fixed future rate.</sub>
 
-[Model landing page and current price](https://pricing.toapis.com/AgentStoryboard) · [PRICING.md](PRICING.md)
+[Model landing page and current price](https://toapis.com/login?aff=BEWR) · [PRICING.md](PRICING.md)
 
 ## Validation scope
 

@@ -1,8 +1,8 @@
 # Related case prices — 2026-10-21
 
-<!-- TOAPIS-PROJECT-LINKS-20261022 -->
-[ToAPIs homepage](https://home.toapis.com/AgentStoryboard) · [Model pricing](https://pricing.toapis.com/AgentStoryboard)
-<!-- /TOAPIS-PROJECT-LINKS-20261022 -->
+<!-- TOAPIS-OWNER-INVITE -->
+[Sign up / use ToAPIs](https://toapis.com/login?aff=BEWR)
+<!-- /TOAPIS-OWNER-INVITE -->
 
 <!-- TOAPIS-SELECTED-PRICES-20261022 -->
 ## Selected model quotes · 2026-10-22
@@ -23,7 +23,7 @@ Checked with read-only international `/v1/pricing` queries. Account groups, inpu
 
 <sub>seedance-2-5: same-key catalog $10/1M total tokens. Per-second figure above is measured from this settled clip, not a fixed future rate.</sub>
 
-[Model landing page and current price](https://pricing.toapis.com/AgentStoryboard) · [PRICING.md](PRICING.md)
+[Model landing page and current price](https://toapis.com/login?aff=BEWR) · [PRICING.md](PRICING.md)
 
 
 Exact request parameters and billing status are in `cases.json`. Image quotation is not final consumption. Video file duration differs from generation processing time.
